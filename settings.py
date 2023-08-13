@@ -1,0 +1,8 @@
+DATA_FOLDER = 'data/cropped'
+ZIP_PATH = f'{DATA_FOLDER}'
+RANDOM_STATE = 42
+IMAGE_SIZE = 64
+MEAN = [.0, .0, .0]
+STD = [1., 1., 1.]
+BATCH_SIZE = 256
+EPOCHS = 30
